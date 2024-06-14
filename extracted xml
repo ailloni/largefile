@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><result offset="0">
+		<field k="_bkt">
+			<value><text>usd~46500~24D33ADA-7DF3-40DD-9141-1F1C0DAE1AC6</text></value>
+		</field>
+		<field k="_cd">
+			<value><text>46500:9683571</text></value>
+		</field>
+		<field k="_indextime">
+			<value><text>1718371978</text></value>
+		</field>
+		<field k="_raw"><v xml:space="preserve" trunc="0">{&quot;@version&quot;:&quot;1&quot;,&quot;message&quot;:&quot;com.nokia.sdme.ldapconnectionmanager.<sg h="1">exception</sg>.LdapOperationException: LDAP search <sg h="1">exception</sg>:  32 (no such object) for imsi=310222046337833,dc=IMSI,dc=C-NTDB server 10.194.23.58:16611 LDAPException(resultCode=32 (no such object), numEntries=0, numReferences=0, errorMessage=&apos;no such object&apos;, matchedDN=&apos;dc=IMSI,DC=C-NTDB&apos;, ldapSDKVersion=6.0.0, revision=524c20f3bbcc0d83fb56b9e136a2fd3a7f60437d&apos;)&quot;,&quot;event&quot;:{&quot;original&quot;:&quot;com.nokia.sdme.ldapconnectionmanager.<sg h="1">exception</sg>.LdapOperationException: LDAP search <sg h="1">exception</sg>:  32 (no such object) for imsi=310222046337833,dc=IMSI,dc=C-NTDB server 10.194.23.58:16611 LDAPException(resultCode=32 (no such object), numEntries=0, numReferences=0, errorMessage=&apos;no such object&apos;, matchedDN=&apos;dc=IMSI,DC=C-NTDB&apos;, ldapSDKVersion=6.0.0, revision=524c20f3bbcc0d83fb56b9e136a2fd3a7f60437d&apos;)&quot;},&quot;log&quot;:{&quot;file&quot;:{&quot;path&quot;:&quot;/var/log/sdme/uservices.log&quot;}},&quot;@timestamp&quot;:&quot;2024-06-14T13:32:50.956183628Z&quot;,&quot;host&quot;:{&quot;name&quot;:&quot;vsdadllk01op003&quot;}}</v></field>
+		<field k="_serial">
+			<value><text>0</text></value>
+		</field>
+		<field k="_si">
+			<value><text>pblvlplnk009c5</text></value>
+			<value><text>usd</text></value>
+		</field>
+		<field k="_sourcetype">
+			<value><text>json_batch</text></value>
+		</field>
+		<field k="_time">
+			<value><text>2024-06-14T13:32:00.000-07:00</text></value>
+		</field>
+		<field k="host">
+			<value><text>splunk-server.t-mobile.com:8088</text></value>
+		</field>
+		<field k="host.name">
+			<value h="1"><text>vsdadllk01op003</text></value>
+			<value h="1"><text>vsdadllk01op003</text></value>
+		</field>
+		<field k="index">
+			<value h="1"><text>usd</text></value>
+		</field>
+		<field k="linecount">
+			<value><text>1</text></value>
+		</field>
+		<field k="source">
+			<value><text>http:usd</text></value>
+		</field>
+		<field k="sourcetype">
+			<value h="1"><text>json_batch</text></value>
+		</field>
+		<field k="splunk_server">
+			<value><text>pblvlplnk009c5</text></value>
+		</field>
+	</result>
